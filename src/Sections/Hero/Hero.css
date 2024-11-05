@@ -1,0 +1,39 @@
+.hero__btn{
+    padding: 13px 25px;
+    font-weight: 600;
+    font-size: 17px;
+}
+
+.hero__title{
+    font-size: clamp(41px, 4vw, 80px);
+    color: rgb(18, 18, 18);
+    font-weight: 600;
+    line-height: 1.2;
+}
+
+.hero-wrapper{
+    max-width: 800px;
+}
+
+.hero__subtitle{
+    font-size: clamp(18px,2.5vw,24px);
+}
+
+.hero__feature{
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+}
+.hero__featuers{
+    color: rgb(109 110 115);
+}
+
+.hero-container{
+    margin-bottom: 40px;
+}
+
+@media (max-width: 600px) {
+    .hero__btns button{
+        width: 100%;
+    }
+}

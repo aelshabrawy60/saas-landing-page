@@ -1,0 +1,32 @@
+.enterprise-container{
+    background-color: #1c1c1e;
+    color: white;
+    border-radius: 14px;
+}
+
+.enterprise__title{
+    font-size: 40px;
+    font-weight: bold;
+}
+.enterprise__label{
+    font-size: 16px;
+    text-transform: uppercase;
+    color: rgb(203, 208, 220);
+}
+.enterprise_feature{
+    font-size: 19px;
+}
+@media (max-width: 500px) {
+    .enterprise_feature{
+        font-size: 16px;
+    }
+}
+.call-sales{
+    background-color: white;
+    color: rgb(133, 132, 139);
+    border-radius: 12px;
+}
+.live-chat{
+    font-size: 12px;
+    font-style: italic;
+}

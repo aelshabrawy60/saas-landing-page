@@ -1,0 +1,35 @@
+.price-card-container{
+    background-color: #fbfbfd;
+    border: 1px solid rgb(232, 232, 235);
+    border-radius: 12px;
+    min-width: 300px;
+    flex: 1;
+}
+.price__name{
+    font-size: 34px;
+    font-weight: 600;
+}
+.price__subtitle{
+    font-size: 18px;
+    color: rgb(102, 114, 126);
+}
+.price__price{
+    font-size: 24px;
+    font-weight: 600;
+}
+.price__price span{
+    font-size: 18px;
+    color: rgb(102, 114, 126);
+    font-weight: normal;
+    margin-left: 3px;
+}
+
+.key-features{
+    text-transform: uppercase;
+    color: rgb(102, 114, 126);
+    font-size: 16px;
+    font-weight: 500;
+}
+.price_feature{
+    font-size: 18px;
+}

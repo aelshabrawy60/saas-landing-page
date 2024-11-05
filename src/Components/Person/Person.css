@@ -1,0 +1,13 @@
+.person__img-container img{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.person__name{
+    color: black;
+    font-weight: 600;
+}
+.person__company{
+    color: gray;
+}

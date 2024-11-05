@@ -1,0 +1,25 @@
+
+.code-editor-container{
+    background-color: #2f3033;
+    font-family: "Inconsolata", monospace;
+    font-weight: 600;
+    font-size: 18px;
+    box-shadow: 0 4px 24px #00000059;
+    border-radius: 12px;
+    color: rgb(168, 164, 164);
+    position: relative;
+}
+
+.code_dot{
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+}
+.code__title{
+    font-size: 17px;
+}
+.code_dots{
+    position: absolute;
+    left: 22px;
+    top: 22px;
+}

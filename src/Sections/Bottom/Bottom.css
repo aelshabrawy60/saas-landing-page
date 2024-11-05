@@ -1,0 +1,11 @@
+.bottom_links{
+    font-size: 18px;
+    color: rgb(109, 110, 115);
+    font-weight: 600;
+}
+
+.bottom-container{
+    background-color: #fbfbfd;
+    border: 1px solid #f8f8fb;
+    border-radius: 14px;
+}

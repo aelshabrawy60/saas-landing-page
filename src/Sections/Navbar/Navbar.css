@@ -1,0 +1,33 @@
+.navbar__brand-container{
+    width: 170px;
+}
+
+.navbar__main-button-container{
+    width: 170px;
+}
+@media (max-width: 900px) {
+    .navbar__main-button-container{
+        width: fit-content;
+    }
+    .nav-item{
+        font-size: 15px !important;
+    }
+}
+.navbar{
+    --bs-navbar-color: rgba(0, 0, 0, 0.863);
+    --bs-navbar-hover-color: var(--main-color)
+}
+
+.nav-item{
+    font-weight: 600;
+    font-size: 17px;
+    margin-right: 38px;
+}
+
+.navbar__main-button-container button{
+    padding: 8px 20px;
+}
+
+.navbar-toggler{
+    
+}

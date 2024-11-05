@@ -1,0 +1,29 @@
+
+
+.test-card__container{
+    background-color: rgb(249, 249, 251);
+    border: 1px solid rgb(221, 221, 223);
+    border-radius: 12px;
+    flex: 1;
+    min-width: 300px
+}
+.test-card__container:hover{
+    background: linear-gradient(126deg, rgba(153, 129, 218, 0.135) 30%, rgba(38, 141, 122, 0.068) 35%, rgba(219, 202, 103, 0.142) 100%);
+}
+.test-card__title{
+    font-size: 24px;
+    font-weight: 600;
+}
+.icon_container{
+    width: 45px;
+    height: 45px;
+    font-size: 22px;
+    color: #757497;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+.test-card__desc{
+    font-size: 18px;
+}

@@ -1,0 +1,18 @@
+.feature{
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.FeaturesStripe_container{
+    overflow-x: hidden;
+    border: 1px solid rgba(128, 128, 128, 0.256);
+    border-radius: 12px;
+    text-wrap: nowrap;
+}
+
+.dot_2{
+    background-color: rgba(128, 128, 128, 0.313);
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+}

@@ -1,0 +1,38 @@
+.test-logo__container img{
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+}
+
+.test__title{
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.tag{
+    background-color: rgb(255, 246, 204);
+    color: rgb(113, 63, 18);
+    border: 1px solid rgba(113, 62, 18, 0.091);
+    padding: 4px 12px;
+    font-weight: 600;
+    font-size: 14px;
+    border-radius: 8px;
+}
+
+.main-testimonial__container{
+    background-color: rgb(249, 249, 251);
+    border: 1px solid rgb(238, 238, 240);
+    border-radius: 12px;
+    position: relative;
+} 
+
+.test__desc{
+    font-size: 18px;
+    color: gray;
+}
+
+.main-test__img{
+    border-radius: 12px;
+    border-bottom-left-radius: 0px;
+    border-top-right-radius: 0px;
+}

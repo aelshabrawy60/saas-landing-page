@@ -1,0 +1,26 @@
+.dot{
+    width: 10px;
+    height: 10px;
+    border: 2px solid;
+    border-radius: 100%;
+}
+
+.version-card-conatiner{
+    padding: 5px 10px;
+    border-radius: 8px;
+    border: 1px solid;
+    cursor: pointer;
+    box-shadow: rgba(234, 178, 8, 0.427)  0px 1px 8px;
+    transition: all 0.3s;
+    width: fit-content;
+}
+
+.version__text{
+    font-weight: 600;
+    font-size: 15px;
+}
+.version-card-conatiner:hover{
+    border-color: rgba(234, 178, 8, 1) !important;
+    box-shadow: rgba(234, 178, 8, 0.427)  0px 3px 8px;
+    transform: translate(0px, -1px);
+}

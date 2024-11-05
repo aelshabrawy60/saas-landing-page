@@ -1,0 +1,41 @@
+:root{
+    --main-color: rgb(50 56 242);
+}
+
+body{
+    font-family: "Poppins", serif;
+    --tw-text-opacity: 1;
+    color: rgb(47 48 51 / var(--tw-text-opacity))
+}
+
+.button-stroke{
+    background-color: white;
+    border: 1px solid rgb(208 209 214);
+    border-radius: 8px;
+}
+
+.button-stroke:hover{
+    border-color: rgb(174, 174, 179);
+}
+
+.button-main{
+    background-color: var(--main-color);
+    color: white;
+    border: none;
+    border-radius: 8px;
+}
+.button-main:hover{
+    background-color: var(--main-color);
+}
+
+.section{
+    margin-top: 100px;
+}
+
+.section__header{
+    padding: 20px;
+    font-size: clamp(28px,4.3vw,45px);
+    font-weight: 600;
+    color: black;
+    margin-bottom: 40px;
+}

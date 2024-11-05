@@ -1,0 +1,43 @@
+.download-container{
+    background-color: #1c1c1e;
+    color: #cccdd3;
+    border-radius: 14px;
+    overflow-x: hidden;
+    position: relative;
+}
+.downlaod__grid{
+    position: absolute;
+    z-index: 0;
+    opacity: 0.44;
+}
+.download__title{
+    font-size: clamp(30px,3vw,45px);
+    font-weight: 600;
+    color: white;
+    line-height: 1.2;
+}
+
+.download__label{
+    font-size: 17px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.download__hint{
+    font-size: 12px;
+    font-style: italic;
+}
+
+.download__btn{
+    max-width: 300px;
+    padding: 12px 20px;
+    font-weight: 600;
+}
+.download__text{
+    max-width: 600px;
+    z-index: 1;
+}
+
+.download_desc{
+    font-size: 18px;
+}

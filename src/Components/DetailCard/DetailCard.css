@@ -1,0 +1,20 @@
+.detail-card__title{
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.detail-card__container{
+    background-color: rgb(245, 244, 246);
+    border: 1px solid rgb(238, 238, 238);
+    border-radius: 12px;
+    cursor: pointer;
+    height: 100%;
+}
+.detail-card__container:hover{
+    background: linear-gradient(126deg, rgba(153, 129, 218, 0.135) 30%, rgba(38, 141, 122, 0.068) 35%, rgba(219, 202, 103, 0.142) 100%);
+}
+
+.detail-card__desc{
+    font-size: 18px;
+    color: black;
+}

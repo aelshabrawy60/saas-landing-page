@@ -3,6 +3,9 @@ Modern Clean Landing Page
 This project is a landing page built with React.
 The landing page is designed to be responsive and user-friendly
 
+![screencapture-localhost-5173-2024-11-05-16_09_49 (1)](https://github.com/user-attachments/assets/fd022ca7-3759-4004-bf7b-b15b1d8f7795)
+
+
 ### Features
 
 - Responsive Design: Looks great on all devices, from mobile phones to desktop computers.

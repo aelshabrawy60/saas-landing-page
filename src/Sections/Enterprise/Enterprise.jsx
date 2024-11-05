@@ -1,7 +1,7 @@
 import React from 'react'
 import { MdCheck } from "react-icons/md";
 
-import './Enterprise.css'
+import './EnterPrise.css'
 
 function Enterprise({features = ['Whiteglove onboarding', 'Priority support', 'Dedicated account manager', 'Custom features', 'Shared Slack channel', 'Custom Billing']}) {
 
